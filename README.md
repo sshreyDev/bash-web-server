@@ -27,5 +27,10 @@ Make the script executable
 ```
 chmod 755 ./server.sh
 ```
+Run
+```
+./server.sh
+```
 
 Navigate to localhost:3000/login
+
